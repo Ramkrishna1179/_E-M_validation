@@ -1,0 +1,27 @@
+.form-validation{
+    width:300px;
+    margin:25px;
+    padding:15px;
+    background:lightblue;
+    font-family:verdana;
+  }
+  .form-heading{
+    color:#000;
+    font-size:20px;
+    padding-bottom:10px;
+    border-bottom:solid 1px #777;
+    margin-bottom:20px;
+  }
+  .form-validation input{
+    background:#fff;
+    padding:10px;
+    width:90%;
+    border:solid 1px #ccc;
+    margin-bottom:15px;
+  }
+  .form-validation .submit{
+    background:darkblue;
+    color:#fff;
+    padding:10px 15px;
+    width:100%;
+  }
